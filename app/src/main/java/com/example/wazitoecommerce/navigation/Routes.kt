@@ -1,0 +1,17 @@
+package com.example.wazitoecommerce.navigation
+
+const val HOME_URL = "home"
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val ADD_ARCHITECTURE_URL = "add_architecture"
+const val VIEW_ARCHITECTURE_URL = "view_architecture"
+const val COMP_URL = "COMP"
+const val SPLASH_URL = "splash"
+const val OPENING_URL= "opening"
+const val ATTACH_URL= "attach"
+const val ENG_URL= "engineering"
+const val BUSINESS_URL= "business"
+const val LAW_URL= "law"
+const val CATERING_URL= "catering"
+const val ADMINLOG_URL= "log"
+const val ADMINSIGN_URL= "sign"
